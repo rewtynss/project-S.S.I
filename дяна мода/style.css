@@ -46,47 +46,125 @@
 }
 
 .main {
-
+    background: linear-gradient(to top right , rgba(250, 165, 232, 0.865), rgb(117, 93, 139));
+   
+   
 }
 
 .chanel {
-
+    margin-top: 90px;
 }
 
 .chanel__chance {
-
+    margin-top: 115px;
+    display: flex;
+    justify-content:space-between;
+    font-size: 23px;
+    margin-left: 45px;
 }
+
+h1{
+    padding: 100px;
+    padding-bottom: 0%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 
 .chanel__chance-img {
+    width: 600px;
+    height: 400px;
+    margin-left: 250px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 50px;
 
 }
 
-.louis {
-
+h4{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    margin-top: 10px;
 }
 
-.vuitton {
-
+.louis_vuitton {
+    margin-top: 50px;
 }
+
+
+
 
 .louis__love {
-
+    display: flex;
+    justify-content:space-between;
+    font-size: 23px;
+    margin-left: 45px;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
 
 .louis__love-img {
+    height: 460px;
+    width: 340px;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-bottom: 30px;
 
+}
+
+h5{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.lacoste{
+   
 }
 
 .lacoste__kr {
-
+    margin-bottom: 0%;
+    margin-top: 115px;
+    display: flex;
+    justify-content:space-between;
+    font-size: 23px;
+    margin-left: 45px;
 }
 
 .lacoste__kr-img {
-
+    width: 600px;
+    height: 400px;
+    margin-left: 250px;
+    margin-right: 50px;
+    margin-bottom: 30px;
 }
 
 .footer {
-    text-align: center;
+    background: linear-gradient(to top right , rgba(249, 165, 232, 0.865), rgb(196, 165, 225));
+    margin-top: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
 }
 
 .footer__box {
