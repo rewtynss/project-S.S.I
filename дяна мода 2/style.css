@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(to top right , rgba(249, 165, 232, 0.865), rgb(151, 124, 176));
+    align-items: center;
+}
+
+.header__logo {
+    margin-left: 30px;
+}
+
+.header__logo-img {
+    width: 200px;
+    height: 100px;
+}
+
+.header__nav {
+    display: flex;
+    align-items: center;
+    margin-right: 200px;
+}
+
+.header__nav-link {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    margin-left: 100px;
+}
+
+.header__contact {
+    margin: 0px 70px 0 0;
+}
+
+.header__contact-link {
+
+}
+
+.header__contact-img {
+    width: 55px;
+    height: 55px;
+}
+
+.main {
+    background: linear-gradient(to top right , rgba(250, 165, 232, 0.865), rgb(117, 93, 139));
+  
+   
+}
+
+.chanel {
+    margin-top: 90px;
+}
+
+.chanel__chance {
+margin-left: 300px;
+margin-right: 300px;
+font-size: 18px;
+}
+
+h1{
+    padding: 100px;
+    padding-bottom: 0%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+}
+
+
+.chanel__chance-img {
+margin-left: 185px;
+margin-right: 185px;
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+}
+
+h4{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+}
+
+.chanel__coco {
+    margin-top: 90px;
+}
+
+.chanel__coco-img {
+    width: 600px;
+    height: 400px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.chanel__cocoh {
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 18px;
+}
+
+
+.footer {
+    background: linear-gradient(to top right , rgba(249, 165, 232, 0.865), rgb(196, 165, 225));
+    margin-top: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+}
+
+
+.chanel__five {
+    margin-top: 90px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+}
+
+.chanel__fivee {
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 18px;
+
+}
+
+.chanel__five-img  {
+    width: 600px;
+    height: 450px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+
+.footer__box {
+    font-size: 20px;
+}
