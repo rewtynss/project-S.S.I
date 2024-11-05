@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(to top right , rgba(249, 165, 232, 0.865), rgb(151, 124, 176));
+    align-items: center;
+}
+
+.header__logo {
+    margin-left: 30px;
+}
+
+.header__logo-img {
+    width: 200px;
+    height: 100px;
+
+}
+
+
+.header__nav {
+
+    display: flex;
+    align-items: center;
+}
+
+
+
+.header__nav-link {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    margin-left: 100px;
+
+}
+
+.header__contact {
+    margin: 0px 70px 0 0;
+
+}
+
+.header__contact-link {
+
+
+}
+
+.header__contact-img {
+    width: 55px;
+    height: 55px;
+}
+
+.main {
+    background: linear-gradient(to top right , rgba(250, 165, 232, 0.865), rgb(117, 93, 139));
+
+}
+
+.louis_vuiton {
+
+}
+
+.louis__li {
+
+}
+
+.louis_vuiton-img {
+
+}
+
+.louis_lo {
+
+}
+
+.louis_new {
+
+
+}
+
+
+.louis_lo-img {
+
+
+}
+
+
+.louis_miu {
+
+
+}
+
+
+.louiss {
+
+}
+
+.louis_miu-img {
+
+}
+
+.footer {
+
+}
+
+.footer__box {
+
+
+}
