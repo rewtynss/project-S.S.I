@@ -80,12 +80,19 @@ h2{
 
 
 .chanel__cico-img {
-margin-left: 200px;
+margin-left: 100px;
 margin-right: 120px;
 margin-top: 15px;
 margin-bottom: 15px;
 height: 400px;
 width: 750px;
+transition-property: width, height;
+transition-duration: 2s;
+}
+
+.chanel__cico-img:hover{
+    width: 650px;
+    height: 300px;
 }
 
 h3{
@@ -113,8 +120,15 @@ h4{
     height: 400px;
     margin-top: 15px;
     margin-bottom: 15px;
-    margin-left: 270px;
+    margin-left: 100px;
     margin-right: 160px;
+    transition-property: width, height;
+    transition-duration: 2s;
+}
+
+.chanel__co-img:hover{
+    width: 700px;
+    height: 500px;
 }
 
 .chanel__cc {
@@ -156,20 +170,35 @@ h5 {
 
 .chanel__v-img  {
     width: 600px;
-    height: 300px;
+    height: 400px;
     margin-top: 15px;
     margin-bottom: 15px;
-    margin-left: 300px;
+    margin-left: 150px;
     margin-right: 160px;
+    transition-property: width, height;
+    transition-duration: 2s;
 }
+
+.chanel__v-img:hover{
+    width: 700px;
+    height: 500px;
+}
+
 
 .chanel__f-img {
     margin-top: 15px;
     margin-bottom: 15px;
-    margin-left: 250px;
+    margin-left: 100px;
     margin-right: 170px;
     width: 700px;
     height: 450px;
+    transition-property: width, height;
+    transition-duration: 2s;
+}
+
+.chanel__f-img:hover{
+    width: 800px;
+    height: 500px;
 }
 
 .footer__box {

@@ -59,19 +59,19 @@
 
 }
 
-.louis-vuitton {
+.lacoste {
     margin-top: 90px;
 }
 
 
-.louis {
+.lacostes {
     margin-left: 300px;
     margin-right: 300px;
     font-size: 18px;
 }
 
 
-.louis-img {
+.lacostes-img {
     width: 600px;
     height: 400px;
     margin-top: 15px;
@@ -83,25 +83,25 @@
 
 }
 
-.louis-img:hover {
+.lacostes-img:hover {
     width: 700px;
     height: 500px;
 }
 
-.vuitton {
+.lacoco {
     margin-top: 90px;
 }
 
 
 
-.vuitton-loui {
+.lacostex {
     margin-left: 300px;
     margin-right: 300px;
     font-size: 18px;
 }
 
 
-.vuitton-loui-img {
+.lacostex-img {
     margin-left: 50px;
     width: 700px;
     height: 400px;
@@ -112,17 +112,17 @@
     transition-duration: 2s;
 }
 
-.vuitton-loui-img:hover {
+.lacostex-img:hover {
     width: 800px;
     height: 500px;
 }
 
-.loui-vivi {
+.lacoste__costa {
     margin-top: 90px;
 }
 
 
-.louivi {
+.laco {
     margin-left: 300px;
     margin-right: 300px;
     font-size: 18px;
@@ -130,7 +130,7 @@
 }
 
 
-.louivi-img {
+.laco-img {
     width: 600px;
     height: 450px;
     margin-top: 15px;
@@ -142,7 +142,7 @@
 
 }
 
-.louivi-img:hover {
+.laco-img:hover {
     width: 700px;
     height: 500px;
 }
@@ -201,12 +201,3 @@ h5 {
 .footer__box {
     font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
